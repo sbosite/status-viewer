@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-19T16:16:55.3800078+08:00",
-                 "recordCount":  31
+                 "generatedAt":  "2026-08-24T15:40:40.1659995+08:00",
+                 "recordCount":  32
              },
     "transactions":  [
                          {
@@ -291,7 +291,7 @@
                              "accountCode":  "5-02-99-990",
                              "particulars":  "Legislative Summit - Food",
                              "department":  "1021",
-                             "estimatedAmount":  78400,
+                             "estimatedAmount":  67382,
                              "referenceNumber":  "2026-08-284",
                              "dvNumber":  "2026-08-1230",
                              "status":  "Released"
@@ -308,6 +308,16 @@
                          },
                          {
                              "transactionNumber":  "SBO-26-027",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Legislative Summit - Materials",
+                             "department":  "1021",
+                             "estimatedAmount":  11127,
+                             "referenceNumber":  "",
+                             "dvNumber":  "2026-08-1230",
+                             "status":  "Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-028",
                              "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
