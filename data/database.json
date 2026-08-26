@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-25T09:36:43.3938862+08:00",
-                 "recordCount":  32
+                 "generatedAt":  "2026-08-26T10:53:57.2745136+08:00",
+                 "recordCount":  33
              },
     "transactions":  [
                          {
@@ -104,7 +104,7 @@
                              "estimatedAmount":  19720,
                              "referenceNumber":  "2026-01-033-C",
                              "dvNumber":  "",
-                             "status":  "Pending AIR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-008C",
@@ -114,7 +114,7 @@
                              "estimatedAmount":  4950,
                              "referenceNumber":  "2026-01-033-D",
                              "dvNumber":  "",
-                             "status":  "Pending RIS"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-008D",
@@ -184,7 +184,7 @@
                              "estimatedAmount":  14689,
                              "referenceNumber":  "2026-05-169",
                              "dvNumber":  "",
-                             "status":  "Pending AIR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-015",
@@ -254,7 +254,7 @@
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
                              "dvNumber":  "2026-08-1234",
-                             "status":  "For NPP"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-022",
@@ -318,6 +318,16 @@
                          },
                          {
                              "transactionNumber":  "SBO-26-028",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Food - Medical/Dental Mission",
+                             "department":  "1021",
+                             "estimatedAmount":  13500,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PPMP"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-029",
                              "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
