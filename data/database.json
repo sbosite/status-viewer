@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-27T14:07:21.8831651+08:00",
+                 "generatedAt":  "2026-09-02T17:12:51.0706432+08:00",
                  "recordCount":  33
              },
     "transactions":  [
@@ -124,7 +124,7 @@
                              "estimatedAmount":  12781,
                              "referenceNumber":  "2026-03-107-A",
                              "dvNumber":  "",
-                             "status":  "Pending AIR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-009",
