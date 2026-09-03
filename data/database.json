@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-02T17:12:51.0706432+08:00",
+                 "generatedAt":  "2026-09-03T09:21:45.2025940+08:00",
                  "recordCount":  33
              },
     "transactions":  [
@@ -104,7 +104,7 @@
                              "estimatedAmount":  19720,
                              "referenceNumber":  "2026-01-033-C",
                              "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "status":  "Pending DV (Issues)"
                          },
                          {
                              "transactionNumber":  "SBO-26-008C",
@@ -114,7 +114,7 @@
                              "estimatedAmount":  4950,
                              "referenceNumber":  "2026-01-033-D",
                              "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "status":  "Pending DV (Issues)"
                          },
                          {
                              "transactionNumber":  "SBO-26-008D",
@@ -123,8 +123,8 @@
                              "department":  "1016",
                              "estimatedAmount":  12781,
                              "referenceNumber":  "2026-03-107-A",
-                             "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "dvNumber":  "2026-09-1357",
+                             "status":  "OMA - For Review"
                          },
                          {
                              "transactionNumber":  "SBO-26-009",
@@ -184,7 +184,7 @@
                              "estimatedAmount":  14689,
                              "referenceNumber":  "2026-05-169",
                              "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "status":  "Pending DV (Issues)"
                          },
                          {
                              "transactionNumber":  "SBO-26-015",
@@ -224,7 +224,7 @@
                              "estimatedAmount":  76868.96,
                              "referenceNumber":  "2026-03-111-A",
                              "dvNumber":  " 2026-08-1269",
-                             "status":  "OMA - For Review"
+                             "status":  "OMA - For NPP"
                          },
                          {
                              "transactionNumber":  "SBO-26-019",
@@ -234,7 +234,7 @@
                              "estimatedAmount":  61645.5,
                              "referenceNumber":  "2026-01-003-E",
                              "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "status":  "Pending DV (Issues)"
                          },
                          {
                              "transactionNumber":  "SBO-26-020",
