@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-03T09:21:45.2025940+08:00",
+                 "generatedAt":  "2026-09-07T11:08:11.0918053+08:00",
                  "recordCount":  33
              },
     "transactions":  [
@@ -254,7 +254,7 @@
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
                              "dvNumber":  "2026-08-1234",
-                             "status":  "MTO - Pending"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-022",
