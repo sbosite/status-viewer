@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-07T13:33:58.2189199+08:00",
-                 "recordCount":  33
+                 "generatedAt":  "2026-09-09T10:30:15.4099064+08:00",
+                 "recordCount":  34
              },
     "transactions":  [
                          {
@@ -328,6 +328,16 @@
                          },
                          {
                              "transactionNumber":  "SBO-26-029",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "JACE TRAVEL SHOPPE",
+                             "department":  "1021",
+                             "estimatedAmount":  111410,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PPMP"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-030",
                              "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
