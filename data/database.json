@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-14T11:04:00.6651469+08:00",
-                 "recordCount":  34
+                 "generatedAt":  "2026-09-16T10:12:04.4338933+08:00",
+                 "recordCount":  33
              },
     "transactions":  [
                          {
@@ -154,7 +154,7 @@
                              "estimatedAmount":  37400,
                              "referenceNumber":  "2026-04-149",
                              "dvNumber":  "2026-06-1014",
-                             "status":  "Released"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-012",
@@ -224,7 +224,7 @@
                              "estimatedAmount":  76868.96,
                              "referenceNumber":  "2026-03-111-A",
                              "dvNumber":  " 2026-08-1269",
-                             "status":  "OMA - For NPP"
+                             "status":  "OMA - Pending Issues"
                          },
                          {
                              "transactionNumber":  "SBO-26-019",
@@ -254,7 +254,7 @@
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
                              "dvNumber":  "2026-08-1234",
-                             "status":  "Released"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-022",
@@ -328,16 +328,6 @@
                          },
                          {
                              "transactionNumber":  "SBO-26-029",
-                             "accountCode":  "5-02-99-990",
-                             "particulars":  "JACE TRAVEL SHOPPE",
-                             "department":  "1021",
-                             "estimatedAmount":  111410,
-                             "referenceNumber":  "2026-09-311-A",
-                             "dvNumber":  "",
-                             "status":  "Pending PPMP"
-                         },
-                         {
-                             "transactionNumber":  "SBO-26-030",
                              "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
