@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-23T09:12:04.6000698+08:00",
+                 "generatedAt":  "2026-09-23T09:42:01.6202562+08:00",
                  "recordCount":  35
              },
     "transactions":  [
@@ -214,7 +214,7 @@
                              "estimatedAmount":  15000,
                              "referenceNumber":  "N/A",
                              "dvNumber":  "2026-03-0473",
-                             "status":  "MTO - Pending"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-018",
@@ -224,7 +224,7 @@
                              "estimatedAmount":  76868.96,
                              "referenceNumber":  "2026-03-111-A",
                              "dvNumber":  " 2026-08-1269",
-                             "status":  "OMA - For MTO"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-019",
@@ -354,7 +354,7 @@
                              "estimatedAmount":  null,
                              "referenceNumber":  "",
                              "dvNumber":  "",
-                             "status":  "Pending PPMP"
+                             "status":  "Pending PR"
                          }
                      ]
 }
