@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-16T10:12:04.4338933+08:00",
-                 "recordCount":  33
+                 "generatedAt":  "2026-09-23T09:12:04.6000698+08:00",
+                 "recordCount":  35
              },
     "transactions":  [
                          {
@@ -34,7 +34,7 @@
                              "estimatedAmount":  90000,
                              "referenceNumber":  "2026-02-014-G",
                              "dvNumber":  "2026-04-0663",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-004",
@@ -44,7 +44,7 @@
                              "estimatedAmount":  233600,
                              "referenceNumber":  "2026-01-004-C",
                              "dvNumber":  "2026-04-0661",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-005",
@@ -54,7 +54,7 @@
                              "estimatedAmount":  9101,
                              "referenceNumber":  "2026-03-071",
                              "dvNumber":  "2026-06-0897",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-006",
@@ -64,7 +64,7 @@
                              "estimatedAmount":  22639,
                              "referenceNumber":  "2026-03-070",
                              "dvNumber":  "2026-06-0897",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-007",
@@ -104,7 +104,7 @@
                              "estimatedAmount":  19720,
                              "referenceNumber":  "2026-01-033-C",
                              "dvNumber":  "2026-09-1397",
-                             "status":  "OMA - For Review"
+                             "status":  "OMA - For NPP"
                          },
                          {
                              "transactionNumber":  "SBO-26-008C",
@@ -124,7 +124,7 @@
                              "estimatedAmount":  12781,
                              "referenceNumber":  "2026-03-107-A",
                              "dvNumber":  "2026-09-1357",
-                             "status":  "OMA - For Review"
+                             "status":  "OMA - For NPP"
                          },
                          {
                              "transactionNumber":  "SBO-26-009",
@@ -224,7 +224,7 @@
                              "estimatedAmount":  76868.96,
                              "referenceNumber":  "2026-03-111-A",
                              "dvNumber":  " 2026-08-1269",
-                             "status":  "OMA - Pending Issues"
+                             "status":  "OMA - For MTO"
                          },
                          {
                              "transactionNumber":  "SBO-26-019",
@@ -233,8 +233,8 @@
                              "department":  "1016",
                              "estimatedAmount":  61645.5,
                              "referenceNumber":  "2026-01-003-E",
-                             "dvNumber":  "",
-                             "status":  "Pending DV (Issues)"
+                             "dvNumber":  "2026-09-1439",
+                             "status":  "OMA - For Review"
                          },
                          {
                              "transactionNumber":  "SBO-26-020",
@@ -244,7 +244,7 @@
                              "estimatedAmount":  18500,
                              "referenceNumber":  "2026-05-204-A",
                              "dvNumber":  "Petty Cash",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-021",
@@ -254,7 +254,7 @@
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
                              "dvNumber":  "2026-08-1234",
-                             "status":  "MTO - Pending"
+                             "status":  "MTO - For Release"
                          },
                          {
                              "transactionNumber":  "SBO-26-022",
@@ -264,7 +264,7 @@
                              "estimatedAmount":  3300,
                              "referenceNumber":  "2026-06-216-B",
                              "dvNumber":  "Petty Cash",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-023",
@@ -294,7 +294,7 @@
                              "estimatedAmount":  67382,
                              "referenceNumber":  "2026-08-284",
                              "dvNumber":  "2026-08-1230",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-026",
@@ -304,7 +304,7 @@
                              "estimatedAmount":  8000,
                              "referenceNumber":  "2026-08-284-A",
                              "dvNumber":  "2026-08-1230",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-027",
@@ -314,7 +314,7 @@
                              "estimatedAmount":  11127,
                              "referenceNumber":  "2026-08-304-B",
                              "dvNumber":  "2026-08-1230",
-                             "status":  "Released"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-028",
@@ -329,9 +329,29 @@
                          {
                              "transactionNumber":  "SBO-26-029",
                              "accountCode":  "5-02-99-990",
+                             "particulars":  "JACE - Manila Ticket",
+                             "department":  "1021",
+                             "estimatedAmount":  111410,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending TOR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-030",
+                             "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
-                             "estimatedAmount":  53000,
+                             "estimatedAmount":  null,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PPMP"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-031",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Sala Set (Woven Wood)",
+                             "department":  "1021",
+                             "estimatedAmount":  null,
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending PPMP"
