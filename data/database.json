@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-24T16:16:50.1154096+08:00",
+                 "generatedAt":  "2026-09-24T16:18:01.2690226+08:00",
                  "recordCount":  37
              },
     "transactions":  [
@@ -341,7 +341,7 @@
                              "accountCode":  "5-02-99-990",
                              "particulars":  "PROGRESS HOME (Cubicles)",
                              "department":  "1021",
-                             "estimatedAmount":  null,
+                             "estimatedAmount":  53000,
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending PPMP"
@@ -351,7 +351,7 @@
                              "accountCode":  "5-02-99-990",
                              "particulars":  "Sala Set (Woven Wood)",
                              "department":  "1021",
-                             "estimatedAmount":  null,
+                             "estimatedAmount":  67000,
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending Augmentation"
