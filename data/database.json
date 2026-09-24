@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-24T14:33:18.3615216+08:00",
-                 "recordCount":  36
+                 "generatedAt":  "2026-09-24T15:56:40.6939359+08:00",
+                 "recordCount":  37
              },
     "transactions":  [
                          {
@@ -354,7 +354,7 @@
                              "estimatedAmount":  null,
                              "referenceNumber":  "",
                              "dvNumber":  "",
-                             "status":  "Pending PR"
+                             "status":  "Pending Augmentation"
                          },
                          {
                              "transactionNumber":  "SBO-26-032",
@@ -362,6 +362,16 @@
                              "particulars":  "BFP - Rice Subsidy",
                              "department":  "1016",
                              "estimatedAmount":  13500,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-033",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Mineral Water",
+                             "department":  "1016",
+                             "estimatedAmount":  1625,
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending PR"
