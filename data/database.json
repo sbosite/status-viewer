@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-23T09:43:20.6797227+08:00",
-                 "recordCount":  35
+                 "generatedAt":  "2026-09-24T09:23:06.0527380+08:00",
+                 "recordCount":  36
              },
     "transactions":  [
                          {
@@ -355,6 +355,16 @@
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending PR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-032",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "BFP - Rice Subsidy",
+                             "department":  "1016",
+                             "estimatedAmount":  13500,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PPMP"
                          }
                      ]
 }
