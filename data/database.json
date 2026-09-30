@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-09-29T18:00:17.1208070+08:00",
+                 "generatedAt":  "2026-09-30T10:36:15.9510246+08:00",
                  "recordCount":  37
              },
     "transactions":  [
@@ -344,7 +344,7 @@
                              "estimatedAmount":  53000,
                              "referenceNumber":  "",
                              "dvNumber":  "",
-                             "status":  "Pending PPMP"
+                             "status":  "Pending PR"
                          },
                          {
                              "transactionNumber":  "SBO-26-031",
