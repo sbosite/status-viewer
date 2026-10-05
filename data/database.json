@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-05T11:44:25.1071602+08:00",
+                 "generatedAt":  "2026-10-05T13:37:05.5655850+08:00",
                  "recordCount":  39
              },
     "transactions":  [
@@ -234,7 +234,7 @@
                              "estimatedAmount":  61645.5,
                              "referenceNumber":  "2026-01-003-E",
                              "dvNumber":  "2026-09-1439",
-                             "status":  "OMA - For NPP"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-020",
