@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-01T14:53:09.3139231+08:00",
+                 "generatedAt":  "2026-10-05T11:32:14.7944596+08:00",
                  "recordCount":  39
              },
     "transactions":  [
@@ -349,22 +349,22 @@
                          {
                              "transactionNumber":  "SBO-26-031",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Sala Set (Woven Wood)",
-                             "department":  "1021",
-                             "estimatedAmount":  67000,
-                             "referenceNumber":  "",
-                             "dvNumber":  "",
-                             "status":  "Pending PR"
-                         },
-                         {
-                             "transactionNumber":  "SBO-26-032",
-                             "accountCode":  "5-02-99-990",
                              "particulars":  "BFP - Rice Subsidy",
                              "department":  "1016",
                              "estimatedAmount":  13500,
                              "referenceNumber":  "2026-09-356",
                              "dvNumber":  "",
                              "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-032",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Sala Set (Woven Wood)",
+                             "department":  "1021",
+                             "estimatedAmount":  67000,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PR"
                          },
                          {
                              "transactionNumber":  "SBO-26-033",
