@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-12T18:52:53.9215194+08:00",
-                 "recordCount":  39
+                 "generatedAt":  "2026-10-14T08:43:54.7079782+08:00",
+                 "recordCount":  43
              },
     "transactions":  [
                          {
@@ -395,6 +395,46 @@
                              "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  "Pending PPMP"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-036",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Siquijor - Meals and Snacks",
+                             "department":  "1021",
+                             "estimatedAmount":  114700,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-037",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Siquijor - Transportation and Accommodation",
+                             "department":  "1021",
+                             "estimatedAmount":  45500,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-038",
+                             "accountCode":  "GAD Fund",
+                             "particulars":  "Siquijor - Accommodation",
+                             "department":  "1011",
+                             "estimatedAmount":  100000,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-039",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "VM Tshirts",
+                             "department":  "1016",
+                             "estimatedAmount":  126270,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "C/O CCES"
                          }
                      ]
 }
