@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-14T17:16:15.9198960+08:00",
-                 "recordCount":  43
+                 "generatedAt":  "2026-10-15T16:10:51.1115461+08:00",
+                 "recordCount":  47
              },
     "transactions":  [
                          {
@@ -435,6 +435,46 @@
                              "referenceNumber":  "2026-10-382",
                              "dvNumber":  "",
                              "status":  "Pending DV"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-040",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SB Gargar-Chairs/Shirt",
+                             "department":  "1016",
+                             "estimatedAmount":  6680,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-041",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SB Magada-Shirts",
+                             "department":  "1016",
+                             "estimatedAmount":  null,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-042",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "MF COMPUTER-Printer",
+                             "department":  "1021",
+                             "estimatedAmount":  17950,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-043",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SB Gargar-School Supplies",
+                             "department":  "1016",
+                             "estimatedAmount":  null,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
                          }
                      ]
 }
