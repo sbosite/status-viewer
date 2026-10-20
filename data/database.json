@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-20T09:36:00.8434982+08:00",
+                 "generatedAt":  "2026-10-20T16:26:12.1002994+08:00",
                  "recordCount":  47
              },
     "transactions":  [
@@ -324,7 +324,7 @@
                              "estimatedAmount":  13500,
                              "referenceNumber":  "2026-08-304-C",
                              "dvNumber":  "2026-10-1494",
-                             "status":  "OMA - For NPP"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-029",
@@ -333,8 +333,8 @@
                              "department":  "1021",
                              "estimatedAmount":  111410,
                              "referenceNumber":  "2026-09-311-A",
-                             "dvNumber":  "",
-                             "status":  "Pending - BAC"
+                             "dvNumber":  "2026-10-1576",
+                             "status":  "OMA - For Review"
                          },
                          {
                              "transactionNumber":  "SBO-26-030",
@@ -384,7 +384,7 @@
                              "estimatedAmount":  20790,
                              "referenceNumber":  "2026-05-169-A",
                              "dvNumber":  "",
-                             "status":  "Pending - For AIR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-035",
@@ -404,7 +404,7 @@
                              "estimatedAmount":  114700,
                              "referenceNumber":  "2026-10-380",
                              "dvNumber":  "",
-                             "status":  "Pending PR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-037",
@@ -414,7 +414,7 @@
                              "estimatedAmount":  45500,
                              "referenceNumber":  "2026-10-360",
                              "dvNumber":  "",
-                             "status":  "Pending PR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-038",
@@ -422,9 +422,9 @@
                              "particulars":  "Siquijor - Accommodation",
                              "department":  "1011",
                              "estimatedAmount":  100000,
-                             "referenceNumber":  "",
+                             "referenceNumber":  "2026-10-385",
                              "dvNumber":  "",
-                             "status":  "Pending PR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-039",
