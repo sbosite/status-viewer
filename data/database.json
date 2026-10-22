@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-20T17:27:41.1734236+08:00",
+                 "generatedAt":  "2026-10-22T11:33:48.8586930+08:00",
                  "recordCount":  47
              },
     "transactions":  [
@@ -274,7 +274,7 @@
                              "estimatedAmount":  3400,
                              "referenceNumber":  "2026-06-211-C",
                              "dvNumber":  "2026-10-1502",
-                             "status":  "OMA - For NPP"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-024",
@@ -284,7 +284,7 @@
                              "estimatedAmount":  25780,
                              "referenceNumber":  "2026-06-226-A",
                              "dvNumber":  "2026-10-1502",
-                             "status":  "OMA - For NPP"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-025",
@@ -364,7 +364,7 @@
                              "estimatedAmount":  67000,
                              "referenceNumber":  "2026-10-361",
                              "dvNumber":  "2026-10-1522",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-033",
@@ -384,7 +384,7 @@
                              "estimatedAmount":  20790,
                              "referenceNumber":  "2026-05-169-A",
                              "dvNumber":  "2026-10-1597",
-                             "status":  "Pending DV"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-035",
