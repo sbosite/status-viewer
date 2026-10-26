@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-22T17:42:06.0513560+08:00",
-                 "recordCount":  47
+                 "generatedAt":  "2026-10-26T08:57:26.4429339+08:00",
+                 "recordCount":  48
              },
     "transactions":  [
                          {
@@ -473,6 +473,16 @@
                              "department":  "1016",
                              "estimatedAmount":  null,
                              "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-044",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "BENITEZ FA",
+                             "department":  "1021",
+                             "estimatedAmount":  20000,
+                             "referenceNumber":  "N/A",
                              "dvNumber":  "",
                              "status":  ""
                          }
