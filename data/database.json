@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-26T08:57:26.4429339+08:00",
-                 "recordCount":  48
+                 "generatedAt":  "2026-10-28T15:31:23.3309220+08:00",
+                 "recordCount":  49
              },
     "transactions":  [
                          {
@@ -404,7 +404,7 @@
                              "estimatedAmount":  114700,
                              "referenceNumber":  "2026-10-380",
                              "dvNumber":  "2026-10-1609",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-037",
@@ -414,7 +414,7 @@
                              "estimatedAmount":  45500,
                              "referenceNumber":  "2026-10-360",
                              "dvNumber":  "2026-10-1609",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-038",
@@ -424,7 +424,7 @@
                              "estimatedAmount":  100000,
                              "referenceNumber":  "2026-10-385",
                              "dvNumber":  "2026-10-1609",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-039",
@@ -483,6 +483,16 @@
                              "department":  "1021",
                              "estimatedAmount":  20000,
                              "referenceNumber":  "N/A",
+                             "dvNumber":  "2026-10-1631",
+                             "status":  "OMA - For Review"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-045",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "",
+                             "department":  "",
+                             "estimatedAmount":  null,
+                             "referenceNumber":  "",
                              "dvNumber":  "",
                              "status":  ""
                          }
