@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-10-28T15:31:23.3309220+08:00",
+                 "generatedAt":  "2026-11-04T09:36:27.3864401+08:00",
                  "recordCount":  49
              },
     "transactions":  [
@@ -451,10 +451,10 @@
                              "accountCode":  "5-02-99-990",
                              "particulars":  "SB Magada-Shirts",
                              "department":  "1016",
-                             "estimatedAmount":  null,
-                             "referenceNumber":  "",
+                             "estimatedAmount":  18230,
+                             "referenceNumber":  "2026-11-407",
                              "dvNumber":  "",
-                             "status":  ""
+                             "status":  "Pending PR"
                          },
                          {
                              "transactionNumber":  "SBO-26-042",
