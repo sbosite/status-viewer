@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-11-11T17:42:12.8211369+08:00",
+                 "generatedAt":  "2026-11-11T18:16:51.1022045+08:00",
                  "recordCount":  49
              },
     "transactions":  [
@@ -484,15 +484,15 @@
                              "estimatedAmount":  20000,
                              "referenceNumber":  "N/A",
                              "dvNumber":  "2026-10-1631",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-045",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "",
-                             "department":  "",
-                             "estimatedAmount":  null,
-                             "referenceNumber":  "",
+                             "particulars":  "Tubongbanwa",
+                             "department":  "1021",
+                             "estimatedAmount":  10000,
+                             "referenceNumber":  "N/A",
                              "dvNumber":  "",
                              "status":  ""
                          }
