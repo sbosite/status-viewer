@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-11-05T10:38:29.3488063+08:00",
+                 "generatedAt":  "2026-11-11T17:42:12.8211369+08:00",
                  "recordCount":  49
              },
     "transactions":  [
@@ -224,7 +224,7 @@
                              "estimatedAmount":  76868.96,
                              "referenceNumber":  "2026-03-111-A",
                              "dvNumber":  " 2026-08-1269",
-                             "status":  "MTO - Pending"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-019",
@@ -254,7 +254,7 @@
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
                              "dvNumber":  "2026-08-1234",
-                             "status":  "MTO - For Release"
+                             "status":  "MTO - Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-022",
@@ -334,7 +334,7 @@
                              "estimatedAmount":  111410,
                              "referenceNumber":  "2026-09-311-A",
                              "dvNumber":  "2026-10-1576",
-                             "status":  "OMA - For Review"
+                             "status":  "MTO - Pending"
                          },
                          {
                              "transactionNumber":  "SBO-26-030",
@@ -344,7 +344,7 @@
                              "estimatedAmount":  53000,
                              "referenceNumber":  "2026-10-360",
                              "dvNumber":  "",
-                             "status":  "Pending - For AIR"
+                             "status":  "Pending DV"
                          },
                          {
                              "transactionNumber":  "SBO-26-031",
@@ -442,9 +442,9 @@
                              "particulars":  "SB Gargar-Chairs",
                              "department":  "1016",
                              "estimatedAmount":  3880,
-                             "referenceNumber":  "",
+                             "referenceNumber":  "2026-11-414",
                              "dvNumber":  "",
-                             "status":  ""
+                             "status":  "For ATP"
                          },
                          {
                              "transactionNumber":  "SBO-26-041",
@@ -472,9 +472,9 @@
                              "particulars":  "SB Gargar-School Supplies",
                              "department":  "1016",
                              "estimatedAmount":  9393,
-                             "referenceNumber":  "",
+                             "referenceNumber":  "2026-11-415",
                              "dvNumber":  "",
-                             "status":  ""
+                             "status":  "For ATP"
                          },
                          {
                              "transactionNumber":  "SBO-26-044",
