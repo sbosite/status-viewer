@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-11-11T18:16:51.1022045+08:00",
+                 "generatedAt":  "2026-11-19T10:17:48.3230388+08:00",
                  "recordCount":  49
              },
     "transactions":  [
@@ -343,8 +343,8 @@
                              "department":  "1021",
                              "estimatedAmount":  53000,
                              "referenceNumber":  "2026-10-360",
-                             "dvNumber":  "",
-                             "status":  "Pending DV"
+                             "dvNumber":  "2026-11-1699",
+                             "status":  "OMA - For Review"
                          },
                          {
                              "transactionNumber":  "SBO-26-031",
